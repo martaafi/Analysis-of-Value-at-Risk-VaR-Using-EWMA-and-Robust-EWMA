@@ -4,4 +4,5 @@ Investasi saham merupakan aktivitas yang bertujuan memperoleh keuntungan di masa
 - Rp28.770.000 (Variance–Covariance)
 - Rp28.038.000 (EWMA)
 - Rp25.812.000 (Robust EWMA)
+  
 Perbedaan metode menghasilkan estimasi VaR yang berbeda, sehingga pemilihan metode perlu disesuaikan dengan karakteristik data return saham. Proses backtesting menggunakan Kupiec Test menunjukkan bahwa ketiga metode valid dalam mengukur potensi kerugian saham BBRI.JK pada periode pengamatan. Proyek ini mengilustrasikan penerapan model volatilitas berbasis pembobotan eksponensial serta validasi statistik dalam manajemen risiko keuangan.
